@@ -28,3 +28,17 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+## PAra rodar a API de testes Json Server, configurar:
+
+##
+
+## "scripts": {
+##    "dev": "vite",
+##    "dev:server": "json-server server.json -w", ## colocar Aqui
+##    "build": "tsc -b && vite build",
+##    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+##    "preview": "vite preview"
+## },
+
+  ## Rodar o comando yarn run dev:server
