@@ -1,22 +1,52 @@
 {
-    "transactions":[
-
-        {
-            "id": 1,
-            "description": "Dev de Sites",
-            "type": "income",
-            "category": "Venda",
-            "price": 8000,
-            "createdAt": "2024-07-30T18:00:30.505Z"
-        },
-        {
-            "id": 2,
-            "description": "Dev de Testes",
-            "type": "outcome",
-            "category": "Venda",
-            "price": -800,
-            "createdAt": "2024-08-11T18:00:30.505Z"
-        }
-    
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Dev de Sites",
+      "type": "income",
+      "category": "Venda",
+      "price": 8000,
+      "createdAt": "2024-07-30T18:00:30.505Z"
+    },
+    {
+      "id": "2",
+      "description": "Dev de Testes",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 800,
+      "createdAt": "2024-08-11T18:00:30.505Z"
+    },
+    {
+      "id": "3",
+      "description": "kibies",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 100,
+      "createdAt": "2024-08-11T18:00:30.505Z"
+    },
+    {
+      "id": "4",
+      "description": "Moto CG 150",
+      "type": "income",
+      "category": "Venda",
+      "price": 7800,
+      "createdAt": "2024-08-11T18:00:30.505Z"
+    },
+    {
+      "id": "2bdc",
+      "description": "issssaaaa",
+      "price": 2,
+      "category": "dss",
+      "type": "income",
+      "createdAt": "2024-08-16T18:20:44.323Z"
+    },
+    {
+      "id": "6471",
+      "description": "PAstelo",
+      "price": 12,
+      "category": "Gororoba",
+      "type": "outcome",
+      "createdAt": "2024-08-16T18:34:08.718Z"
+    }
+  ]
 }
